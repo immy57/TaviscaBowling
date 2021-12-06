@@ -1,0 +1,13 @@
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\bin\Debug\netcoreapp3.1\BowlingTavisca.exe
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\bin\Debug\netcoreapp3.1\BowlingTavisca.deps.json
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\bin\Debug\netcoreapp3.1\BowlingTavisca.runtimeconfig.json
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\bin\Debug\netcoreapp3.1\BowlingTavisca.runtimeconfig.dev.json
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\bin\Debug\netcoreapp3.1\BowlingTavisca.dll
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\bin\Debug\netcoreapp3.1\BowlingTavisca.pdb
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\obj\Debug\netcoreapp3.1\BowlingTavisca.csprojAssemblyReference.cache
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\obj\Debug\netcoreapp3.1\BowlingTavisca.AssemblyInfoInputs.cache
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\obj\Debug\netcoreapp3.1\BowlingTavisca.AssemblyInfo.cs
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\obj\Debug\netcoreapp3.1\BowlingTavisca.csproj.CoreCompileInputs.cache
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\obj\Debug\netcoreapp3.1\BowlingTavisca.dll
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\obj\Debug\netcoreapp3.1\BowlingTavisca.pdb
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingTavisca\obj\Debug\netcoreapp3.1\BowlingTavisca.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\bin\Debug\netcoreapp3.1\BowlingBussiness.deps.json
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\bin\Debug\netcoreapp3.1\BowlingBussiness.dll
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\bin\Debug\netcoreapp3.1\BowlingBussiness.pdb
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\obj\Debug\netcoreapp3.1\BowlingBussiness.csprojAssemblyReference.cache
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\obj\Debug\netcoreapp3.1\BowlingBussiness.AssemblyInfoInputs.cache
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\obj\Debug\netcoreapp3.1\BowlingBussiness.AssemblyInfo.cs
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\obj\Debug\netcoreapp3.1\BowlingBussiness.csproj.CoreCompileInputs.cache
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\obj\Debug\netcoreapp3.1\BowlingBussiness.dll
+C:\Users\imran.sayani\Desktop\New folder (2)\BowlingTavisca\BowlingBussiness\obj\Debug\netcoreapp3.1\BowlingBussiness.pdb

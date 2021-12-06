@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingTavisca", "BowlingTavisca\BowlingTavisca.csproj", "{F420648C-3D71-4577-AA8A-216BDCF57793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingTest", "BowlingTest\BowlingTest.csproj", "{6F1FF4EA-B21B-4E85-A83D-A3403A9491AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F420648C-3D71-4577-AA8A-216BDCF57793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F420648C-3D71-4577-AA8A-216BDCF57793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F420648C-3D71-4577-AA8A-216BDCF57793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F420648C-3D71-4577-AA8A-216BDCF57793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1FF4EA-B21B-4E85-A83D-A3403A9491AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1FF4EA-B21B-4E85-A83D-A3403A9491AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1FF4EA-B21B-4E85-A83D-A3403A9491AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1FF4EA-B21B-4E85-A83D-A3403A9491AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5D6ADA5-5B3E-4468-BD8A-458949A00961}
+	EndGlobalSection
+EndGlobal
